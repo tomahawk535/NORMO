@@ -4,5 +4,5 @@ $(document).ready(function(){
         arrows: false,
         adaptiveHeight:true,
         slidesToShow:6,
-});
+    });
 });
